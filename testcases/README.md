@@ -1,0 +1,1 @@
+The two numbers in first line of test case indicates the number of input and output
